@@ -1,4 +1,4 @@
-![aiuta_banner](https://github.com/user-attachments/assets/39f723e4-18e1-4fd1-bdbe-6d7eb209e85d)
+![aiuta_banner](https://github.com/user-attachments/assets/f8b681ee-bd1a-4cd2-8399-aed217651feb)
 
 ## Virtual Try-On Solution for Apparel and Fashion Businesses
 
