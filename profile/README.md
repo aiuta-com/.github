@@ -1,13 +1,19 @@
-![aiuta_banner](https://github.com/user-attachments/assets/f8b681ee-bd1a-4cd2-8399-aed217651feb)
+![aiuta_banner](https://sdk.aiuta.com/media/about.png)
 
-## Virtual Try-On Solution for Apparel and Fashion Businesses
+## Aiuta Virtual Try-On Solutions
 
-- [Android SDK](https://github.com/aiuta-com/android-sdk)
-- [IOS SDK](https://github.com/aiuta-com/aiuta-ios-sdk)
-- [Flutter SDK](https://github.com/aiuta-com/flutter-sdk)
-- [SDK Docs](https://github.com/aiuta-com/aiuta-sdk-docs)
-- [API Docs](https://developer.aiuta.com/products/digital-try-on/Documentation)
+Let your customers visualize how clothes look on them — instantly and accurately
 
-Boost your customer lifetime value and average order value by offering your customers an exceptional virtual try-on experience. 
-Elevate their shopping journey and see your business growth soar.
-[Read more](https://aiuta.com/virtual-try-on)
+- High quality visualisation
+- __7x faster__ than the average competitor
+- Preserve pose and body shape
+- [Read more](https://aiuta.com)
+  
+###### Documentation
+- [SDK](https://sdk.aiuta.com)
+- [API](https://developer.aiuta.com/products/digital-try-on/Documentation)
+
+###### Sources
+- [Android](https://github.com/aiuta-com/android-sdk)
+- [iOS](https://github.com/aiuta-com/aiuta-ios-sdk)
+- [Flutter](https://github.com/aiuta-com/flutter-sdk)
