@@ -1,4 +1,4 @@
-![aiuta_banner](https://sdk.aiuta.com/media/about.png)
+![aiuta_banner](https://docs.aiuta.com/media/about.png)
 
 ## Aiuta Virtual Try-On Solutions
 
