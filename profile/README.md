@@ -10,10 +10,9 @@ Let your customers visualize how clothes look on them — instantly and accurate
 - [Read more](https://aiuta.com)
   
 ###### Documentation
-- [SDK](https://sdk.aiuta.com)
-- [API](https://developer.aiuta.com/products/digital-try-on/Documentation)
+- [Docs](https://docs.aiuta.com)
 
 ###### Sources
-- [Android](https://github.com/aiuta-com/android-sdk)
+- [Android](https://github.com/aiuta-com/aiuta-android-sdk)
 - [iOS](https://github.com/aiuta-com/aiuta-ios-sdk)
-- [Flutter](https://github.com/aiuta-com/flutter-sdk)
+- [Flutter](https://github.com/aiuta-com/aiuta-flutter-sdk)
